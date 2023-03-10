@@ -101,7 +101,7 @@ body {
 }
 
 
-.apresentacao__links:hover {
+.apresentacao__links :hover {
     background-color: var(--cor-hover);
 }
 
